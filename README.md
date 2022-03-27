@@ -1,0 +1,1 @@
+This is a readme for the Portfolio assignment. I am still having some troubles commiting to Github sometimes. I also need to pratice more overall on the css layout and flexboxes as well as implementing the media queries properly.
