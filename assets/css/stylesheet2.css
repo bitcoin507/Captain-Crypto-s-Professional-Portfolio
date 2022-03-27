@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary1: rgba(7, 7, 190, 0.973);
+    --primary2: white;
+    --highlights: rgba(128, 128, 128, 0.548);
+}
+
+body {
+    color:var(--primary2);
+    background-image: url(../images/anon.jpg);
+    background-position: center;
+
+    
+}
+
+
+
+#about-me {
+    display: inline-block;
+    width: 30%;
+    
+    
+    
+    
+    
+   
+}
+
+a {
+    color: var(--primary1);
+}
+
+
+
+    
+#apps{
+    display: inline-block;
+    margin-left: 650px;
+   
+    
+    
+  
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+.App{
+    box-shadow:var(--highlights)
+    transition: blue .5s;
+}
+
+.App:hover {
+     background-color:var(--highlights)
+}
