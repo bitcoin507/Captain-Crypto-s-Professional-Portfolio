@@ -14,3 +14,5 @@ I have made the screen responsive with a media query, I have fixed the positioni
 ![screen2](https://user-images.githubusercontent.com/39675578/167664519-5ef733dd-1fa7-4210-bce0-aee0ef97d36d.png)
 The second screenshot shows contact info and the effect when arrow hovers over the Application link image.
 ![screenshot portfolio](https://user-images.githubusercontent.com/39675578/172655518-50f1170a-e7c5-4a5e-9889-dbce28dfefd7.png)
+
+My contact info is panamaworldwideinvestments@gmail.com
