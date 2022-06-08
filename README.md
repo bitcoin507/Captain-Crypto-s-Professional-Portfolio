@@ -1,6 +1,7 @@
 This is a readme for my application. 
 
-The name of the application is called Captain Crypto's Professional Portfolio .
+The name of the application is called Captain Crypto's Professional Portfolio . It has links to my resume, LinkedIn profile and contact info
+It also has links to 3 deployed apps.
 
 Here is a link to the deployed app: https://bitcoin507.github.io/Portfolio/
 
