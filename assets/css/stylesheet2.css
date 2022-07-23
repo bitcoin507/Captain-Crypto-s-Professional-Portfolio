@@ -8,6 +8,24 @@
     --highlights: rgba(128, 128, 128, 0.548);
 }
 
+@media screen and (max-width: 1300px) {
+    
+    #apps {
+        position: relative;
+        right: 600px;
+    }
+    #contact {
+        position: absolute;
+        left: 1px;
+
+    }
+   
+  }
+
+
+
+ 
+
 body {
     color:var(--primary2);
     background-image: url(../images/anon.jpg);
@@ -45,17 +63,29 @@ a {
   
 }
 
+.imgSmall {
+    width: 200px;
+}
+
+#footCon {
+    position: relative;
+}
+
 footer{
     text-align: center;
 }
 
 
 
-.App{
-    box-shadow:var(--highlights)
-    transition: blue .5s;
-}
+
 
 .App:hover {
-     background-color:var(--highlights)
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0 10px 10px rgba(255, 255, 255, 1);
+    color: black;
+}
+
+#me {
+    height: 250px;
+    width: 200px;
 }
