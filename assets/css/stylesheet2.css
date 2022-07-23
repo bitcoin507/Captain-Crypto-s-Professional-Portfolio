@@ -39,7 +39,11 @@ body {
 #about-me {
     display: inline-block;
     width: 30%;
+<<<<<<< HEAD
     color: aliceblue;
+=======
+    color: white;
+>>>>>>> 69ccef2c23697c2cbd9dd43cbed954019af4a919
     
     
     
@@ -89,4 +93,8 @@ footer{
 #me {
     height: 250px;
     width: 200px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 69ccef2c23697c2cbd9dd43cbed954019af4a919
